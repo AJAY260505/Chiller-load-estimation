@@ -1,4 +1,7 @@
-streamlit
-pandas
-matplotlib
-scikit-learn  # For any machine learning models you may want to use
+streamlit==1.26.0
+pandas==2.1.1
+numpy==1.23.5
+plotly==5.15.0
+requests==2.31.0
+streamlit-lottie==0.0.2
+scikit-learn==1.3.0  
