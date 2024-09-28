@@ -1,0 +1,4 @@
+streamlit
+pandas
+matplotlib
+scikit-learn  # For any machine learning models you may want to use
