@@ -70,6 +70,11 @@ To run this project locally, ensure you have the following installed:
    streamlit run app.py
    ```
 
+   # Dummy user database for demonstration purposes
+USER_DB = {
+    "user@example.com": "password123",
+}
+
 ### Usage
 
 - **Login**: Enter your credentials to access the application.
