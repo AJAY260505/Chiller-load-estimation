@@ -91,4 +91,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or suggestions, feel free to reach out at [ajay260505@.com].
+For questions or suggestions, feel free to reach out at [ajay260505@gmail.com].
